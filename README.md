@@ -1,0 +1,1 @@
+# patika-veri-yap-lar-insertion-projesi
