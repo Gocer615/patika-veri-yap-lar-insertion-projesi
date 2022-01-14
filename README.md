@@ -12,17 +12,17 @@
 
 O(n^2)
 
-Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+3.Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 çözüm:
 
 average case: 16,18 , worst case: 27 , best case: 2
 
-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 çözüm:
 
 average case
 
-[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+5.[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 çözüm:
 
 [2,3,5,8,7,9,4,15,6] -> [2,3,4,8,7,9,5,15,6] -> [2,3,4,5,7,9,8,15,6] -> [2,3,4,5,6,9,8,15,7]
